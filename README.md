@@ -20,11 +20,12 @@ Bu proje, sayısal analiz konularını öğrenmek isteyen öğrenciler ve geliş
 
 ---
 🧑‍💻 Geliştirici Bilgileri
+
 Ad Soyad: Azo Ismail
 
 E-posta: ismailazo260@gmail.com
 
-GitHub: github.com/Azo15
+GitHub: [ github.com/Azo15](https://github.com/Azo15)
 
 İletişim için yukarıdaki bilgilerden bana ulaşabilirsiniz. yorum ve önerilrilerinizi her zaman memnuniyetle karşılarım!
 
