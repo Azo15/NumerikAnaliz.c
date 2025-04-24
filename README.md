@@ -19,7 +19,16 @@ Bu proje, sayısal analiz konularını öğrenmek isteyen öğrenciler ve geliş
 - Belirtilen hata sınırına hangi iterasyonda ulaşıldığı gösterilir  
 
 ---
+🧑‍💻 Geliştirici Bilgileri
+Ad Soyad: Azo Ismail
 
+E-posta: ismailazo260@gmail.com
+
+GitHub: github.com/Azo15
+
+İletişim için yukarıdaki bilgilerden bana ulaşabilirsiniz. yorum ve önerilrilerinizi her zaman memnuniyetle karşılarım!
+
+---
 ## 🚀 Derleme ve Çalıştırma
 
 Bu program C dilinde yazılmıştır ve GCC gibi bir derleyiciyle çalıştırılabilir:
@@ -31,11 +40,4 @@ NumerikAnaliz/
 │
 ├── numerikanaliz.c         # Ana C kod dosyası
 └── README.md               # Proje açıklama dosyası
-🧑‍💻 Geliştirici Bilgileri
-Ad Soyad: [Azo Ismail]
 
-E-posta: [ismailazo260@gmail.com]
-
-GitHub: github.com/Azo15
-
-İletişim için yukarıdaki bilgilerden bana ulaşabilirsiniz. yorum ve önerilrilerinizi her zaman memnuniyetle karşılarım!
